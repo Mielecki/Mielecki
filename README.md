@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+My name is **Bartłomiej**. I am a 3rd year Computer Science student at AGH University of Kraków.
+
+# I code with
+
+[![My Skills](https://skillicons.dev/icons?i=py,go,java,c,js)](https://skillicons.dev)
+
+# Currently learning
+
+[![Currently Learning](https://skillicons.dev/icons?i=react,tailwind,docker)](https://skillicons.dev)
+
+# Other
+
+[![Other](https://skillicons.dev/icons?i=postgres,git,linux,html,css)](https://skillicons.dev)
+
 <!--
 **Mielecki/Mielecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
