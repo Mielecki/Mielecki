@@ -4,15 +4,15 @@ My name is **Bartłomiej**. I am a 3rd year Computer Science student at AGH Univ
 
 # I code with
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,java,c,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,java,c,js,react)](https://skillicons.dev)
 
 # Currently learning
 
-[![Currently Learning](https://skillicons.dev/icons?i=react,tailwind,flask,docker)](https://skillicons.dev)
+[![Currently Learning](https://skillicons.dev/icons?i=flask,docker,cpp)](https://skillicons.dev)
 
 # Other
 
-[![Other](https://skillicons.dev/icons?i=postgres,git,linux,html,css)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=git,linux,html,css,tailwind,postgres,sqlite)](https://skillicons.dev)
 
 <!--
 **Mielecki/Mielecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
