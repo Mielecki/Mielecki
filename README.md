@@ -8,7 +8,7 @@ My name is **Bartłomiej**. I am a 3rd year Computer Science student at AGH Univ
 
 # Currently learning
 
-[![Currently Learning](https://skillicons.dev/icons?i=flask,docker,cpp)](https://skillicons.dev)
+[![Currently Learning](https://skillicons.dev/icons?i=docker,cpp)](https://skillicons.dev)
 
 # Other
 
