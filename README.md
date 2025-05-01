@@ -1,30 +1,36 @@
-## Hi there 👋
+## Hi there, I'm Bartłomiej 👋
 
-My name is **Bartłomiej**. I am a 3rd year Computer Science student at AGH University of Kraków.
+🎓 3rd-year Computer Science student at AGH University of Science and Technology in Cracow
 
-# I code with
+💻 Interested in full-stack development, especially backend architecture, and solving algorithmic problems.
 
-[![My Skills](https://skillicons.dev/icons?i=py,go,java,c,js,react)](https://skillicons.dev)
+## Technologies I work with:
 
-# Currently learning
+**Programming languages**:
 
-[![Currently Learning](https://skillicons.dev/icons?i=docker,cpp)](https://skillicons.dev)
+![Python](https://skillicons.dev/icons?i=python&size=20)
+![Java](https://skillicons.dev/icons?i=java&size=20)
+![JavaScript](https://skillicons.dev/icons?i=javascript&size=20)
+![C](https://skillicons.dev/icons?i=c&size=20)
+![Go](https://skillicons.dev/icons?i=go&size=20)
 
-# Other
+**Backend**:
 
-[![Other](https://skillicons.dev/icons?i=git,linux,html,css,tailwind,postgres,sqlite)](https://skillicons.dev)
+![Flask](https://skillicons.dev/icons?i=flask&size=30)
+![FastAPI](https://skillicons.dev/icons?i=fastapi&size=30)
+![Express](https://skillicons.dev/icons?i=express&size=30)
 
-<!--
-**Mielecki/Mielecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend**:
 
-Here are some ideas to get you started:
+![React](https://skillicons.dev/icons?i=react&size=30)
+![Tailwind](https://skillicons.dev/icons?i=tailwind&size=30)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Databases**:
+
+![PostgreSQL](https://skillicons.dev/icons?i=postgres&size=30)
+![SQLite](https://skillicons.dev/icons?i=sqlite&size=30)
+
+**Tools**:
+
+![Git](https://skillicons.dev/icons?i=git&size=30)
+![Docker](https://skillicons.dev/icons?i=docker&size=30)
