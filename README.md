@@ -35,3 +35,4 @@
 ![Git](https://skillicons.dev/icons?i=git&size=30)
 ![Docker](https://skillicons.dev/icons?i=docker&size=30)
 ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq&size=30)
+![Grafana](https://skillicons.dev/icons?i=grafana&size=30)
