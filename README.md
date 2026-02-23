@@ -1,6 +1,6 @@
 ## Hi there, I'm Bartłomiej 👋
 
-🎓 3rd-year Computer Science student at AGH University of Science and Technology in Cracow
+🎓 4th-year Computer Science student at AGH University of Science and Technology in Cracow
 
 💻 Interested in full-stack development, especially backend architecture, and solving algorithmic problems.
 
