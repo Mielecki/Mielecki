@@ -1,38 +1,42 @@
-## Hi there, I'm Bartłomiej 👋
+## Bartłomiej Mielecki
 
-🎓 4th-year Computer Science student at AGH University of Science and Technology in Cracow
+Master's student in Machine Learning & AI at AGH University of Science and Technology  
+Fullstack Developer focused on AI-powered systems & distributed architectures
 
-💻 Interested in full-stack development, especially backend architecture, and solving algorithmic problems.
+---
 
-## Technologies I work with:
+## Technologies & Tools
 
-**Programming languages**:
+**Programming Languages** 
 
-![Python](https://skillicons.dev/icons?i=python&size=20)
-![Java](https://skillicons.dev/icons?i=java&size=20)
-![JavaScript](https://skillicons.dev/icons?i=javascript&size=20)
-![C](https://skillicons.dev/icons?i=c&size=20)
-![Go](https://skillicons.dev/icons?i=go&size=20)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Backend**:
+**AI & Machine Learning**
 
-![Flask](https://skillicons.dev/icons?i=flask&size=30)
-![FastAPI](https://skillicons.dev/icons?i=fastapi&size=30)
-![Express](https://skillicons.dev/icons?i=express&size=30)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Frontend**:
+**Backend & Databases**
 
-![React](https://skillicons.dev/icons?i=react&size=30)
-![Tailwind](https://skillicons.dev/icons?i=tailwind&size=30)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Databases**:
+**Frontend**
 
-![PostgreSQL](https://skillicons.dev/icons?i=postgres&size=30)
-![SQLite](https://skillicons.dev/icons?i=sqlite&size=30)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Tools**:
+**Architecture, DevOps & Monitoring**
 
-![Git](https://skillicons.dev/icons?i=git&size=30)
-![Docker](https://skillicons.dev/icons?i=docker&size=30)
-![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq&size=30)
-![Grafana](https://skillicons.dev/icons?i=grafana&size=30)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
